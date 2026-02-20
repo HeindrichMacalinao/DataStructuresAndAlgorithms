@@ -1,2 +1,2 @@
-# DSA_PrintQueueSimulator
-A simple programming activity utilizing linked lists and queues in Java. 
+# Data Structures and Algorithms
+This repository contains programs I developed while studying Data Structures and Algorithms.
