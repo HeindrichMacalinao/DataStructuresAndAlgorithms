@@ -3,6 +3,7 @@ public class NumbersInArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int option;
+        
         //do while loop for termination of program when user inputs 4
         do {
             System.out.println("1. Sum of N number in an array");
