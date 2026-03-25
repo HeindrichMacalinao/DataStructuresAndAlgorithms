@@ -1,5 +1,3 @@
-package prac;
-
 import java.util.LinkedList;
 
 public class Sandbox {
