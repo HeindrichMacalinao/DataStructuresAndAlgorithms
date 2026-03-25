@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Sandbox {
+public class LinkedList {
 
     public static void main(String[] args) {
         
