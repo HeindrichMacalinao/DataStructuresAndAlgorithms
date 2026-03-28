@@ -1,5 +1,3 @@
-package prac;
-
 import java.util.Stack;
 
 public class Sandbox 
