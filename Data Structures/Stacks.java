@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Sandbox 
+public class Stacks 
 {
     public static void main(String[] args) 
     {
